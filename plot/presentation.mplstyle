@@ -1,0 +1,17 @@
+legend.framealpha : 1
+legend.fontsize : 10
+axes.labelsize : 10
+axes.titlesize : 10
+xtick.labelsize : 10
+ytick.labelsize : 10
+
+text.usetex : True
+text.latex.preamble : \usepackage[utf8]{inputenc} \usepackage[T1]{fontenc} \usepackage{amsfonts} \usepackage{nicefrac} \usepackage{microtype} \usepackage{amsmath} \usepackage{bm} \usepackage{mathtools}
+
+font.family : serif
+
+figure.subplot.top : 0.95
+figure.subplot.bottom : 0.1
+figure.subplot.right : 0.9
+figure.subplot.left : 0.1
+figure.figsize : 7, 5
